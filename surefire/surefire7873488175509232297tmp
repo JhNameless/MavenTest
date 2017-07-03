@@ -1,0 +1,5 @@
+#surefire
+#Sun Jul 02 22:08:22 COT 2017
+user.dir=C\:\\Users\\jhona\\Desktop\\github-maven-example-master\\example
+localRepository=C\:\\Users\\jhona\\.m2\\repository
+basedir=C\:\\Users\\jhona\\Desktop\\github-maven-example-master\\example
