@@ -7,7 +7,7 @@
 'C:/Users/jhona/Desktop/github-maven-example-master/example/src/test/java'
 -author
 -bottom
-'Copyright &#169; 2017. All Rights Reserved.'
+'Copyright &#169; 2017 <a href="http://www.espe.edu.ec">Universidad De Las Fuerzas Armadas "ESPE"</a>. All Rights Reserved.'
 -charset
 'UTF-8'
 -d
@@ -16,6 +16,8 @@
 'UTF-8'
 -doctitle
 'MavenGitPrueba 0.1-SNAPSHOT Test API'
+-link
+'../apidocs'
 -link
 'http://java.sun.com/javase/6/docs/api'
 -use
